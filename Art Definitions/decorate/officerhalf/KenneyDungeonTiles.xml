@@ -1,0 +1,349 @@
+<Settings>
+    <SharedSettings>
+        <Setting Key="Artist" Value="Kenney"/>
+        <Setting Key="ArtistURL" Value="http://kenney.nl/assets/isometric-dungeon-tiles"/>
+        <Setting Key="Creator" Value="Nathan Smith"/>
+        <Setting Key="CreatorURL" Value="http://nathan-smith.org"/>
+        <Setting Key="ForceGradualReveal" Value="True"/>
+        <Setting Key="ImageScale" Value="2.2"/>
+    </SharedSettings>
+    <!-- Furniture -->
+    <Placeable Name="Chair E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chair_E.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-54"/>
+        <Setting Key="CornerOffsetX" Value="56"/>
+    </Placeable>
+    <Placeable Name="Chair N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chair_N.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-61"/>
+        <Setting Key="CornerOffsetX" Value="55"/>
+    </Placeable>
+    <Placeable Name="Chair S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chair_S.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-54"/>
+        <Setting Key="CornerOffsetX" Value="67"/>
+    </Placeable>
+    <Placeable Name="Chair W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chair_W.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-61"/>
+        <Setting Key="CornerOffsetX" Value="67"/>
+    </Placeable>
+    <Placeable Name="Table, Round (Chairs) E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRoundChairs_E.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-91"/>
+        <Setting Key="CornerOffsetX" Value="136"/>
+    </Placeable>
+    <Placeable Name="Table, Round (Chairs) N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRoundChairs_N.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-92"/>
+        <Setting Key="CornerOffsetX" Value="136"/>
+    </Placeable>
+    <Placeable Name="Table, Round (Chairs) S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRoundChairs_S.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-92"/>
+        <Setting Key="CornerOffsetX" Value="136"/>
+    </Placeable>
+    <Placeable Name="Table, Round (Chairs) W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRoundChairs_W.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-92"/>
+        <Setting Key="CornerOffsetX" Value="138"/>
+    </Placeable>
+    <Placeable Name="Table, Round E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRound_E.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-66"/>
+        <Setting Key="CornerOffsetX" Value="103"/>
+    </Placeable>
+    <Placeable Name="Table, Round N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRound_N.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-66"/>
+        <Setting Key="CornerOffsetX" Value="103"/>
+    </Placeable>
+    <Placeable Name="Table, Round S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRound_S.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-65"/>
+        <Setting Key="CornerOffsetX" Value="103"/>
+    </Placeable>
+    <Placeable Name="Table, Round W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableRound_W.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-65"/>
+        <Setting Key="CornerOffsetX" Value="103"/>
+    </Placeable>
+    <Placeable Name="Table, Short (Chairs) E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShortChairs_E.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-90"/>
+        <Setting Key="CornerOffsetX" Value="129"/>
+    </Placeable>
+    <Placeable Name="Table, Short (Chairs) N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShortChairs_N.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-89"/>
+        <Setting Key="CornerOffsetX" Value="136"/>
+    </Placeable>
+    <Placeable Name="Table, Short (Chairs) S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShortChairs_S.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-90"/>
+        <Setting Key="CornerOffsetX" Value="133"/>
+    </Placeable>
+    <Placeable Name="Table, Short (Chairs) W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShortChairs_W.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-89"/>
+        <Setting Key="CornerOffsetX" Value="129"/>
+    </Placeable>
+    <Placeable Name="Table, Short E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShort_E.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-77"/>
+        <Setting Key="CornerOffsetX" Value="130"/>
+    </Placeable>
+    <Placeable Name="Table, Short N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShort_N.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-77"/>
+        <Setting Key="CornerOffsetX" Value="129"/>
+    </Placeable>
+    <Placeable Name="Table, Short S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShort_S.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-76"/>
+        <Setting Key="CornerOffsetX" Value="129"/>
+    </Placeable>
+    <Placeable Name="Table, Short W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableShort_W.png"/>
+        <Setting Key="Category" Value="Kenney/Furniture"/>
+        <Setting Key="DrawingOffsetY" Value="-77"/>
+        <Setting Key="CornerOffsetX" Value="130"/>
+    </Placeable>
+    <!-- Containers -->
+    <Placeable Name="Barrels, Stacked E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrelsStacked_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-117"/>
+        <Setting Key="CornerOffsetX" Value="185"/>
+    </Placeable>
+    <Placeable Name="Barrels, Stacked N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrelsStacked_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-117"/>
+        <Setting Key="CornerOffsetX" Value="177"/>
+    </Placeable>
+    <Placeable Name="Barrels, Stacked S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrelsStacked_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-116"/>
+        <Setting Key="CornerOffsetX" Value="178"/>
+    </Placeable>
+    <Placeable Name="Barrels, Stacked W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrelsStacked_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-116"/>
+        <Setting Key="CornerOffsetX" Value="185"/>
+    </Placeable>
+    <Placeable Name="Barrels E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrels_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-84"/>
+        <Setting Key="CornerOffsetX" Value="145"/>
+    </Placeable>
+    <Placeable Name="Barrels N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrels_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-95"/>
+        <Setting Key="CornerOffsetX" Value="144"/>
+    </Placeable>
+    <Placeable Name="Barrels S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrels_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-93"/>
+        <Setting Key="CornerOffsetX" Value="148"/>
+    </Placeable>
+    <Placeable Name="Barrels W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrels_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-91"/>
+        <Setting Key="CornerOffsetX" Value="152"/>
+    </Placeable>
+    <Placeable Name="Barrel E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrel_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="84"/>
+    </Placeable>
+    <Placeable Name="Barrel N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrel_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="84"/>
+    </Placeable>
+    <Placeable Name="Barrel S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrel_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="82"/>
+    </Placeable>
+    <Placeable Name="Barrel W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/barrel_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="84"/>
+    </Placeable>
+    <Placeable Name="Chest, Closed E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestClosed_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-59"/>
+        <Setting Key="CornerOffsetX" Value="89"/>
+    </Placeable>
+    <Placeable Name="Chest, Closed N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestClosed_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-59"/>
+        <Setting Key="CornerOffsetX" Value="88"/>
+    </Placeable>
+    <Placeable Name="Chest, Closed S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestClosed_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-59"/>
+        <Setting Key="CornerOffsetX" Value="88"/>
+    </Placeable>
+    <Placeable Name="Chest, Closed W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestClosed_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-59"/>
+        <Setting Key="CornerOffsetX" Value="89"/>
+    </Placeable>
+    <Placeable Name="Chest, Open E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestOpen_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-64"/>
+        <Setting Key="CornerOffsetX" Value="97"/>
+    </Placeable>
+    <Placeable Name="Chest, Open N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestOpen_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-80"/>
+        <Setting Key="CornerOffsetX" Value="97"/>
+    </Placeable>
+    <Placeable Name="Chest, Open S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestOpen_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-64"/>
+        <Setting Key="CornerOffsetX" Value="106"/>
+    </Placeable>
+    <Placeable Name="Chest, Open W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/chestOpen_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-81"/>
+        <Setting Key="CornerOffsetX" Value="107"/>
+    </Placeable>
+    <Placeable Name="Wooden Crates E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrates_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-76"/>
+        <Setting Key="CornerOffsetX" Value="123"/>
+    </Placeable>
+    <Placeable Name="Wooden Crates N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrates_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-81"/>
+        <Setting Key="CornerOffsetX" Value="98"/>
+    </Placeable>
+    <Placeable Name="Wooden Crates S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrates_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-84"/>
+        <Setting Key="CornerOffsetX" Value="99"/>
+    </Placeable>
+    <Placeable Name="Wooden Crates W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrates_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-79"/>
+        <Setting Key="CornerOffsetX" Value="124"/>
+    </Placeable>
+    <Placeable Name="Wooden Crate E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrate_E.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="96"/>
+    </Placeable>
+    <Placeable Name="Wooden Crate N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrate_N.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="96"/>
+    </Placeable>
+    <Placeable Name="Wooden Crate S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrate_S.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="96"/>
+    </Placeable>
+    <Placeable Name="Wooden Crate W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenCrate_W.png"/>
+        <Setting Key="Category" Value="Kenney/Containers"/>
+        <Setting Key="DrawingOffsetY" Value="-67"/>
+        <Setting Key="CornerOffsetX" Value="96"/>
+    </Placeable>
+    <!-- Debris -->
+    <Placeable Name="Table and Chairs, Broken E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableChairsBroken_E.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-86"/>
+        <Setting Key="CornerOffsetX" Value="150"/>
+    </Placeable>
+    <Placeable Name="Table and Chairs, Broken N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableChairsBroken_N.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-78"/>
+        <Setting Key="CornerOffsetX" Value="144"/>
+    </Placeable>
+    <Placeable Name="Table and Chairs, Broken S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableChairsBroken_S.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-92"/>
+        <Setting Key="CornerOffsetX" Value="143"/>
+    </Placeable>
+    <Placeable Name="Table and Chairs, Broken W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/tableChairsBroken_W.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-87"/>
+        <Setting Key="CornerOffsetX" Value="142"/>
+    </Placeable>
+    <Placeable Name="Wooden Pile E.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenPile_E.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-101"/>
+        <Setting Key="CornerOffsetX" Value="152"/>
+    </Placeable>
+    <Placeable Name="Wooden Pile N.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenPile_N.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-88"/>
+        <Setting Key="CornerOffsetX" Value="155"/>
+    </Placeable>
+    <Placeable Name="Wooden Pile S.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenPile_S.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-92"/>
+        <Setting Key="CornerOffsetX" Value="150"/>
+    </Placeable>
+    <Placeable Name="Wooden Pile W.png">
+        <Setting Key="ImagePath" Value="Art/decorate/officerhalf/KenneyDungeonTiles/woodenPile_W.png"/>
+        <Setting Key="Category" Value="Kenney/Debris"/>
+        <Setting Key="DrawingOffsetY" Value="-90"/>
+        <Setting Key="CornerOffsetX" Value="141"/>
+    </Placeable>
+</Settings>

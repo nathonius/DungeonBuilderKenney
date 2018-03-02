@@ -541,11 +541,21 @@
     <Placeable Name="Stairs, Spiral E">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_E.png"/>
         <Setting Key="Category" Value="Kenney/Stairs"/>
+        <Setting Key="PlacementType" Value="Single"/>
+    </Placeable>
+    <Placeable Name="Stairs, Spiral E 2">
+        <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_E2.png"/>
+        <Setting Key="Category" Value="Kenney/Stairs"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
     </Placeable>
     <Placeable Name="Stairs, Spiral N">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_N.png"/>
+        <Setting Key="Category" Value="Kenney/Stairs"/>
+        <Setting Key="PlacementType" Value="Single"/>
+    </Placeable>
+    <Placeable Name="Stairs, Spiral N 2">
+        <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_N2.png"/>
         <Setting Key="Category" Value="Kenney/Stairs"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
@@ -553,11 +563,21 @@
     <Placeable Name="Stairs, Spiral S">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_S.png"/>
         <Setting Key="Category" Value="Kenney/Stairs"/>
+        <Setting Key="PlacementType" Value="Single"/>
+    </Placeable>
+    <Placeable Name="Stairs, Spiral S 2">
+        <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_S2.png"/>
+        <Setting Key="Category" Value="Kenney/Stairs"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
     </Placeable>
     <Placeable Name="Stairs, Spiral W">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_W.png"/>
+        <Setting Key="Category" Value="Kenney/Stairs"/>
+        <Setting Key="PlacementType" Value="Single"/>
+    </Placeable>
+    <Placeable Name="Stairs, Spiral W 2">
+        <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stairsSpiral_W2.png"/>
         <Setting Key="Category" Value="Kenney/Stairs"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
@@ -769,12 +789,14 @@
     </Placeable>
     <!-- Walls -->
     <Placeable Name="Stone Wall, Aged (Left) E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedLeft_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Left) N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedLeft_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -782,6 +804,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Left) S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedLeft_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -789,6 +812,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Left) W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedLeft_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -796,6 +820,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Right) E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedRight_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -803,6 +828,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Right) N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedRight_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -810,6 +836,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Right) S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedRight_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -817,6 +844,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged (Right) W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAgedRight_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -824,6 +852,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAged_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -831,6 +860,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAged_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -838,6 +868,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAged_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -845,6 +876,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Aged W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallAged_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -852,6 +884,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Archway E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallArchway_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -859,6 +892,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Archway N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallArchway_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -866,6 +900,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Archway S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallArchway_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -873,6 +908,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Archway W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallArchway_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -880,6 +916,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Left) E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenLeft_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -887,6 +924,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Left) N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenLeft_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -894,6 +932,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Left) S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenLeft_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -901,6 +940,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Left) W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenLeft_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -908,6 +948,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Right) E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenRight_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -915,6 +956,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Right) N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenRight_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -922,6 +964,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Right) S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenRight_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -929,6 +972,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken (Right) W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBrokenRight_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -936,6 +980,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBroken_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -943,6 +988,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBroken_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -950,6 +996,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBroken_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -957,6 +1004,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Broken W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallBroken_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -964,6 +1012,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column In E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumnIn_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -971,6 +1020,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column In N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumnIn_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -978,6 +1028,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column In S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumnIn_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -985,6 +1036,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column In W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumnIn_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -992,6 +1044,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumn_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -999,6 +1052,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumn_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1006,6 +1060,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumn_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1013,6 +1068,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Column W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallColumn_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1020,6 +1076,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Corner E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallCorner_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1027,6 +1084,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Corner N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallCorner_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1034,6 +1092,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Corner S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallCorner_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1041,6 +1100,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Corner W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallCorner_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1048,6 +1108,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Hole E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallHole_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1055,6 +1116,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Hole N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallHole_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1062,6 +1124,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Hole S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallHole_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1069,6 +1132,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Hole W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallHole_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1078,36 +1142,41 @@
     <Placeable Name="Stone Wall, Top E">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <!-- <Setting Key="StacksWithRelativeIsoPositions" Value="2,1;1,1"/> -->
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) E;Stone Wall, Aged (Right) E;Stone Wall, Aged E;Stone Wall, Archway E;Stone Wall, Broken (Left) E;Stone Wall, Broken (Right) E;Stone Wall, Broken E;Stone Wall, Column In E;Stone Wall, Column E;Stone Wall, Corner E;Stone Wall, Hole E;Stone Wall, Window (Bars) E;Stone Wall, Window E;Stone Wall E"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
-        <Setting Key="DrawingOffsetZ" Value="1"/>
+        <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Top N">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <!-- <Setting Key="StacksWithRelativeIsoPositions" Value="2,1;1,1"/> -->
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) N;Stone Wall, Aged (Right) N;Stone Wall, Aged N;Stone Wall, Archway N;Stone Wall, Broken (Left) N;Stone Wall, Broken (Right) N;Stone Wall, Broken N;Stone Wall, Column In N;Stone Wall, Column N;Stone Wall, Corner N;Stone Wall, Hole N;Stone Wall, Window (Bars) N;Stone Wall, Window N;Stone Wall N"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
-        <Setting Key="DrawingOffsetZ" Value="1"/>
+        <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Top S">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <!-- <Setting Key="StacksWithRelativeIsoPositions" Value="2,1;1,1"/> -->
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) S;Stone Wall, Aged (Right) S;Stone Wall, Aged S;Stone Wall, Archway S;Stone Wall, Broken (Left) S;Stone Wall, Broken (Right) S;Stone Wall, Broken S;Stone Wall, Column In S;Stone Wall, Column S;Stone Wall, Corner S;Stone Wall, Hole S;Stone Wall, Window (Bars) S;Stone Wall, Window S;Stone Wall S"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
-        <Setting Key="DrawingOffsetZ" Value="1"/>
+        <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Top W">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <!-- <Setting Key="StacksWithRelativeIsoPositions" Value="2,1;1,1"/> -->
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) W;Stone Wall, Aged (Right) W;Stone Wall, Aged W;Stone Wall, Archway W;Stone Wall, Broken (Left) W;Stone Wall, Broken (Right) W;Stone Wall, Broken W;Stone Wall, Column In W;Stone Wall, Column W;Stone Wall, Corner W;Stone Wall, Hole W;Stone Wall, Window (Bars) W;Stone Wall, Window W;Stone Wall W"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
-        <Setting Key="DrawingOffsetZ" Value="1"/>
+        <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window (Bars) E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindowBars_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1115,6 +1184,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window (Bars) N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindowBars_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1122,6 +1192,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window (Bars) S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindowBars_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1129,6 +1200,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window (Bars) W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindowBars_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1136,6 +1208,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindow_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1143,6 +1216,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindow_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1150,6 +1224,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindow_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1157,6 +1232,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall, Window W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallWindow_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1164,6 +1240,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall E">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWall_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1171,6 +1248,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall N">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWall_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1178,6 +1256,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall S">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWall_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
@@ -1185,6 +1264,7 @@
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
     </Placeable>
     <Placeable Name="Stone Wall W">
+        <Setting Key="BlocksSight" Value="True"/>
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWall_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
         <Setting Key="SnapType" Value="Center"/>
