@@ -1142,7 +1142,7 @@
     <Placeable Name="Stone Wall, Top E">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_E.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1"/>
         <Setting Key="StacksWithImages" Value="Stone Wall, Aged E;Stone Wall, Archway E;Stone Wall, Broken E;Stone Wall, Column In E;Stone Wall, Corner E;Stone Wall, Hole E;Stone Wall, Window (Bars) E;Stone Wall, Window E;Stone Wall E"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
@@ -1151,8 +1151,8 @@
     <Placeable Name="Stone Wall, Top N">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_N.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
-        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) N;Stone Wall, Aged (Right) N;Stone Wall, Aged N;Stone Wall, Archway N;Stone Wall, Broken (Left) N;Stone Wall, Broken (Right) N;Stone Wall, Broken N;Stone Wall, Column In N;Stone Wall, Column N;Stone Wall, Corner N;Stone Wall, Hole N;Stone Wall, Window (Bars) N;Stone Wall, Window N;Stone Wall N"/>
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged N;Stone Wall, Archway N;Stone Wall, Broken N;Stone Wall, Column In N;Stone Wall, Corner N;Stone Wall, Hole N;Stone Wall, Window (Bars) N;Stone Wall, Window N;Stone Wall N"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
@@ -1160,8 +1160,8 @@
     <Placeable Name="Stone Wall, Top S">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_S.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
-        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) S;Stone Wall, Aged (Right) S;Stone Wall, Aged S;Stone Wall, Archway S;Stone Wall, Broken (Left) S;Stone Wall, Broken (Right) S;Stone Wall, Broken S;Stone Wall, Column In S;Stone Wall, Column S;Stone Wall, Corner S;Stone Wall, Hole S;Stone Wall, Window (Bars) S;Stone Wall, Window S;Stone Wall S"/>
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged S;Stone Wall, Archway S;Stone Wall, Broken S;Stone Wall, Column In S;Stone Wall, Corner S;Stone Wall, Hole S;Stone Wall, Window (Bars) S;Stone Wall, Window S;Stone Wall S"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Line"/>
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
@@ -1169,8 +1169,8 @@
     <Placeable Name="Stone Wall, Top W">
         <Setting Key="ImagePath" Value="Art/build/officerhalf/KenneyDungeonTiles/stoneWallTop_W.png"/>
         <Setting Key="Category" Value="Kenney/Walls"/>
-        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1"/>
-        <Setting Key="StacksWithImages" Value="Stone Wall, Aged (Left) W;Stone Wall, Aged (Right) W;Stone Wall, Aged W;Stone Wall, Archway W;Stone Wall, Broken (Left) W;Stone Wall, Broken (Right) W;Stone Wall, Broken W;Stone Wall, Column In W;Stone Wall, Column W;Stone Wall, Corner W;Stone Wall, Hole W;Stone Wall, Window (Bars) W;Stone Wall, Window W;Stone Wall W"/>
+        <Setting Key="StacksWithRelativeIsoPositions" Value="1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1;1,1"/>
+        <Setting Key="StacksWithImages" Value="Stone Wall, Aged W;Stone Wall, Archway W;Stone Wall, Broken W;Stone Wall, Column In W;Stone Wall, Corner W;Stone Wall, Hole W;Stone Wall, Window (Bars) W;Stone Wall, Window W;Stone Wall W"/>
         <Setting Key="SnapType" Value="Center"/>
         <Setting Key="PlacementType" Value="Single"/>
         <Setting Key="DrawingOffsetZ" Value="-0.6"/>
